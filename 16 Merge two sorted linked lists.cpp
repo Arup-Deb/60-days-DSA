@@ -180,7 +180,4 @@ if(head1->data<=head2->data)
 else{
     return solve(head2,head1);
 }
-
-
- 
 }  
