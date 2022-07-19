@@ -143,5 +143,4 @@ Node* temp = *head;
    curr->next = prev;
    *head_ref = prev;
 
-
 }
